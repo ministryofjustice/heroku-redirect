@@ -1,0 +1,20 @@
+{
+  "name": "heroku-redirect",
+  "version": "1.0.0",
+  "description": "Runs a Heroku dyno redirecting request to a new host: Managed by opg-org-infra &amp; Terraform",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ministryofjustice/heroku-redirect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ministryofjustice/heroku-redirect/issues"
+  },
+  "homepage": "https://github.com/ministryofjustice/heroku-redirect#readme"
+}
